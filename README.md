@@ -1,7 +1,9 @@
 # Python 数据分析期末刷题网页
 
 在线访问：
-[Python 数据分析期末刷题网页](https://1379475267-svg.github.io/python-data-analysis-quiz/)
+
+- [阿里云在线版](http://47.109.136.234/projects/python-data/)
+- [GitHub Pages 镜像](https://1379475267-svg.github.io/python-data-analysis-quiz/)
 
 这是一个纯静态刷题网页，不需要服务器和数据库。
 
